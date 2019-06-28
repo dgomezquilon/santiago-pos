@@ -1,0 +1,4 @@
+[submodule "pos_modules"]
+	path = pos_modules
+	url = git@gitlab.com:aselcis-addons/pos/pos_modules.git
+	branch = 12.0
